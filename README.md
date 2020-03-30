@@ -1,0 +1,1 @@
+A basic boilerplate for React applications with Redux and SASS.
